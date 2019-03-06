@@ -8,7 +8,7 @@
   - npm ^6.9.0
   
 #Init 
-npm install -g npm
+npm install -g npm <br>
 npm -g install truffle
 npm -g install drizzle
 npm -g install solidity

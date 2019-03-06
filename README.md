@@ -1,6 +1,7 @@
 # thai-election
 โปรแกรมเลือกตั้งด้วย Blockchain
-เลิกใช้วิธีกากบาทที่คูหาแล้วไปนั่งเสียเวลานับอีกที เปลืองกระดาษ เปลืองเวลาเปล่า ๆ 
+
+<pre>เลิกใช้วิธีกากบาทที่คูหาแล้วไปนั่งเสียเวลานับอีกที เปลืองกระดาษ เปลืองเวลาเปล่า ๆ 
 ใช้ Blockchain ดีกว่า 
 
 #Requirements
@@ -8,7 +9,7 @@
   - npm ^6.9.0
   
 #Init 
-npm install -g npm <br>
+npm install -g npm 
 npm -g install truffle
 npm -g install drizzle
 npm -g install solidity
@@ -31,3 +32,4 @@ npm run dev
 http://localhost:3000/ 
 
 
+</pre>
